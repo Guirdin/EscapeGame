@@ -9,10 +9,7 @@ public class StartGame : MonoBehaviour, IPointerDownHandler
     public GameObject instructions;
     public GameObject enigme1;
     public GameObject informationsButton1;
-    public GameObject enigme2;
-    public GameObject informationsButton2;
-    public GameObject enigme3;
-    public GameObject informationsButton3;
+    public GameObject help;
     public GameObject textInputField;
     public GameObject validateButton;
     public GameObject timer;
@@ -25,10 +22,7 @@ public class StartGame : MonoBehaviour, IPointerDownHandler
         instructions.SetActive(true);
         enigme1.SetActive(true);
         informationsButton1.SetActive(true);
-        enigme2.SetActive(true);
-        informationsButton2.SetActive(true);
-        enigme3.SetActive(true);
-        informationsButton3.SetActive(true);
+        help.SetActive(true);
         textInputField.SetActive(true);
         validateButton.SetActive(true);
         timer.SetActive(true);

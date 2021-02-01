@@ -5,9 +5,26 @@ using UnityEngine.UI;
 
 public class Countdown : MonoBehaviour
 {
-    public float timeRemaining = 1200;
+    public float timeRemaining = 10;
     public bool timerIsRunning = false;
     public Text timeText;
+    
+    public GameObject instructions;
+    public GameObject enigme1;
+    public GameObject informationsButton1;
+    public GameObject enigme2;
+    public GameObject informationsButton2;
+    public GameObject enigme3;
+    public GameObject informationsButton3;
+    public GameObject textInputField;
+    public GameObject validateButton;
+    public GameObject textInputField2;
+    public GameObject validateButton2;
+    public GameObject textInputField3;
+    public GameObject validateButton3;
+    public GameObject timer;
+    public GameObject defaite;
+    public GameObject help;
 
     private void Start()
     {
@@ -27,9 +44,25 @@ public class Countdown : MonoBehaviour
             
             else
             {
-                Debug.Log("Time has run out!");
                 timeRemaining = 0;
                 timerIsRunning = false;
+                
+                instructions.SetActive(false);
+                enigme1.SetActive(false);
+                informationsButton1.SetActive(false);
+                enigme2.SetActive(false);
+                informationsButton2.SetActive(false);
+                enigme3.SetActive(false);
+                informationsButton3.SetActive(false);
+                textInputField.SetActive(false);
+                validateButton.SetActive(false);
+                textInputField2.SetActive(false);
+                validateButton2.SetActive(false);
+                textInputField3.SetActive(false);
+                validateButton3.SetActive(false);
+                timer.SetActive(false);
+                defaite.SetActive(true);
+                help.SetActive(false);
             }
         }
     }

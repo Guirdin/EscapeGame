@@ -9,11 +9,14 @@
         <e p="Scripts" t="Include">
           <e p="CloseGame.cs" t="Include" />
           <e p="Countdown.cs" t="Include" />
-          <e p="InputValidation.cs" t="Include" />
+          <e p="OpenImage.cs" t="Include" />
           <e p="OpenPDF.cs" t="Include" />
           <e p="OpenPDF2.cs" t="Include" />
           <e p="OpenRec.cs" t="Include" />
           <e p="StartGame.cs" t="Include" />
+          <e p="Validation1.cs" t="Include" />
+          <e p="Validation2.cs" t="Include" />
+          <e p="Validation3.cs" t="Include" />
         </e>
       </e>
       <e p="EscapeGame.sln" t="IncludeFlat" />

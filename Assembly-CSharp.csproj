@@ -60,11 +60,14 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CloseGame.cs" />
      <Compile Include="Assets\Scripts\Countdown.cs" />
-     <Compile Include="Assets\Scripts\InputValidation.cs" />
+     <Compile Include="Assets\Scripts\OpenImage.cs" />
      <Compile Include="Assets\Scripts\OpenPDF.cs" />
      <Compile Include="Assets\Scripts\OpenPDF2.cs" />
      <Compile Include="Assets\Scripts\OpenRec.cs" />
      <Compile Include="Assets\Scripts\StartGame.cs" />
+     <Compile Include="Assets\Scripts\Validation1.cs" />
+     <Compile Include="Assets\Scripts\Validation2.cs" />
+     <Compile Include="Assets\Scripts\Validation3.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/h-per/Bureau/EscapeGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
