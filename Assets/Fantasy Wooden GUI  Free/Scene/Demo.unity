@@ -345,7 +345,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 167.50002, y: -237}
+  m_AnchoredPosition: {x: 167.50002, y: -280}
   m_SizeDelta: {x: 245, y: 96}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &245813339
@@ -1286,8 +1286,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 167.49998, y: 21}
-  m_SizeDelta: {x: 710.339, y: 286.0036}
+  m_AnchoredPosition: {x: 178.8, y: -24.3}
+  m_SizeDelta: {x: 733.0055, y: 376.52094}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &901132606
 MonoBehaviour:
@@ -1321,16 +1321,19 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Text d'intro test teste s test qText d'intro test teste s test qText d'intro
-    test teste s test qText d'intro test teste s test qText d'intro test teste s
-    test qText d'intro test teste s test qText d'intro test teste s test qText d'intro
-    test teste s test qText d'intro test teste s test qText d'intro test teste s
-    test qText d'intro test teste s test qText d'intro test teste s test qText d'intro
-    test teste s test qText d'intro test teste s test qText d'intro test teste s
-    test qText d'intro test teste s test qText d'intro test teste s test qText d'intro
-    test teste s test qText d'intro test teste s test qText d'intro test teste s
-    test qText d'intro test teste s test qText d'intro test teste s test qText d'intro
-    test teste s test qText d'intro test teste s test q
+  m_Text: "Vous et votre \xE9quipe souhaitez percer les secrets de la premi\xE8re
+    pyramide.\n\nVotre \xE9quipe et vous m\xEAme vous retrouvez dans l\u2019entr\xE9e
+    de cette pyramide enfin pr\xEAt pour\r l\u2019aventure. Vous vous enfoncez dans
+    la pyramide et visitez les premieres salle quand tout \xE0 coups,\r un de vos
+    amis \xE9tant rest\xE9s dans la derni\xE8re salle s\u2019est appuy\xE9 sur une
+    st\xE8le qui a d\xE9clench\xE9 un\r\nm\xE9canisme qui l\u2019a enferm\xE9.\r\n\nPar
+    chance vous avez donn\xE9 \xE0 chacun des membres de l\u2019\xE9quipe une lampe
+    et des talkieswalkies,\r la transmissions est correcte mais il vous reste un
+    temps de batterie limit\xE9 \xE0 20 minutes\r avant qu\u2019il ne s\u2019\xE9teigne
+    et condamne votre ami(e).\r\n\nL\u2019otage des ruines vous fait parvenir les
+    informations dispos\xE9es dans la salle. C\u2019est gr\xE2ce \xE0 vos\r ressources
+    que vous allez lui indiquer comment sortir de sa tombe, en r\xE9solvant les \xE9nigmes
+    de la\r pyramide.\r"
 --- !u!222 &901132607
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2970,7 +2973,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 379.45, y: 183}
+  m_AnchoredPosition: {x: 354, y: 185}
   m_SizeDelta: {x: 51.60138, y: 52.602478}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1714657505
@@ -3625,7 +3628,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 167.50017, y: 247.52002}
+  m_AnchoredPosition: {x: 167.5, y: 256}
   m_SizeDelta: {x: 489.43024, y: -23.079102}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1967382359
