@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\h-per\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\h-per\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_EquipeN_EscapeGame_Build.-1266447029.00" t="ExcludeRecursive" />
+    <e p="C:\Users\h-per\Bureau\EquipeN_EscapeGame_Build" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="CloseGame.cs" t="Include" />
+          <e p="Countdown.cs" t="Include" />
+          <e p="OpenImage.cs" t="Include" />
+          <e p="OpenPDF.cs" t="Include" />
+          <e p="OpenPDF2.cs" t="Include" />
+          <e p="OpenRec.cs" t="Include" />
+          <e p="Restart.cs" t="Include" />
+          <e p="StartGame.cs" t="Include" />
+          <e p="Validation1.cs" t="Include" />
+          <e p="Validation2.cs" t="Include" />
+          <e p="Validation3.cs" t="Include" />
+        </e>
+      </e>
+      <e p="EquipeN_EscapeGame_Build.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

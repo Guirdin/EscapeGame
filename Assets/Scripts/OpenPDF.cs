@@ -16,7 +16,7 @@ public class OpenPDF : MonoBehaviour, IPointerDownHandler
     }
     
     public void OpenPDFs() {
-        Application.OpenURL(System.Environment.CurrentDirectory + "/1.pdf");
+        Application.OpenURL(System.Environment.CurrentDirectory + "/Documents/1.pdf");
     }
 
     public void OnPointerDown(PointerEventData eventData)

@@ -16,7 +16,7 @@ public class OpenRec : MonoBehaviour, IPointerDownHandler
     }
     
     public void OpenRecording() {
-        Application.OpenURL(System.Environment.CurrentDirectory + "/3.mp3");
+        Application.OpenURL(System.Environment.CurrentDirectory + "/Documents/3.mp3");
     }
 
     public void OnPointerDown(PointerEventData eventData)

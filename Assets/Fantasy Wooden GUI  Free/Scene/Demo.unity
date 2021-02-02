@@ -910,15 +910,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Instruction: Resoudre les 3 enigmes pour valider la phrase cacher! Vous
-    avez 20 minutes!
-
-
-    Entrez la solution en miniscule.
-
-
-    Appuyez sur les
-    resources en haut a droite.'
+  m_Text: "Instruction: Resoudre les 3 enigmes pour valider la phrase cach\xE9! Vous
+    avez 20 minutes!\n\nEntrez la solution en minuscule et en FRANCAIS.\n\nAppuyez
+    sur les ressources en haut a droite."
 --- !u!222 &540145390
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1325,12 +1319,12 @@ MonoBehaviour:
   m_Text: "Vous et votre \xE9quipe souhaitez percer les secrets de la premi\xE8re
     pyramide.\n\nVotre \xE9quipe et vous m\xEAme vous retrouvez dans l\u2019entr\xE9e
     de cette pyramide enfin pr\xEAt pour\r l\u2019aventure. Vous vous enfoncez dans
-    la pyramide et visitez les premieres salle quand tout \xE0 coups,\r un de vos
-    amis \xE9tant rest\xE9s dans la derni\xE8re salle s\u2019est appuy\xE9 sur une
+    la pyramide et visitez les premieres salles quand tout \xE0 coups,\r un de vos
+    amis \xE9tant rest\xE9 dans la derni\xE8re salle s\u2019est appuy\xE9 sur une
     st\xE8le qui a d\xE9clench\xE9 un\r\nm\xE9canisme qui l\u2019a enferm\xE9.\r\n\nPar
     chance vous avez donn\xE9 \xE0 chacun des membres de l\u2019\xE9quipe une lampe
-    et des talkieswalkies,\r la transmissions est correcte mais il vous reste un
-    temps de batterie limit\xE9 \xE0 20 minutes\r avant qu\u2019il ne s\u2019\xE9teigne
+    et des talkie-walkies,\r la transmission est correcte mais il vous reste un temps
+    de batterie limit\xE9 \xE0 20 minutes\r avant qu\u2019il ne s\u2019\xE9teigne
     et condamne votre ami(e).\r\n\nL\u2019otage des ruines vous fait parvenir les
     informations dispos\xE9es dans la salle. C\u2019est gr\xE2ce \xE0 vos\r ressources
     que vous allez lui indiquer comment sortir de sa tombe, en r\xE9solvant les \xE9nigmes

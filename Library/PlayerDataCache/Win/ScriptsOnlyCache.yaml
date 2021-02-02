@@ -666,4 +666,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Fantasy Wooden GUI  Free/Scene/Demo.unity
-  playerPath: C:/Users/h-per/Bureau/EquipeN_EscapeGame_Build/EscapeGame2D.exe
+  playerPath: C:/Users/h-per/Bureau/EscapeGame_GroupN/EscapeGame2D.exe
