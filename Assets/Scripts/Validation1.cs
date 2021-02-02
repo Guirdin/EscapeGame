@@ -46,7 +46,7 @@ public class Validation1 : MonoBehaviour, IPointerDownHandler
 
     public void ValidateField()
     {
-        if (textField.text == "tabouret plumes bouche hibou plume main plume")
+        if (textField.text == "tabouret plumes bouche vautour hibou plume main plume")
         {
             enigme1.SetActive(false);
             informationsButton1.SetActive(false);

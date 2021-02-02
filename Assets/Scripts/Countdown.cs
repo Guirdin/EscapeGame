@@ -22,9 +22,11 @@ public class Countdown : MonoBehaviour
     public GameObject validateButton2;
     public GameObject textInputField3;
     public GameObject validateButton3;
+    public GameObject recorder;
     public GameObject timer;
     public GameObject defaite;
     public GameObject help;
+    public GameObject restart;
 
     private void Start()
     {
@@ -61,8 +63,10 @@ public class Countdown : MonoBehaviour
                 textInputField3.SetActive(false);
                 validateButton3.SetActive(false);
                 timer.SetActive(false);
+                recorder.SetActive(false);
                 defaite.SetActive(true);
                 help.SetActive(false);
+                restart.SetActive(true);
             }
         }
     }

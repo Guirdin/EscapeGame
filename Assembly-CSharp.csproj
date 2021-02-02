@@ -64,6 +64,7 @@
      <Compile Include="Assets\Scripts\OpenPDF.cs" />
      <Compile Include="Assets\Scripts\OpenPDF2.cs" />
      <Compile Include="Assets\Scripts\OpenRec.cs" />
+     <Compile Include="Assets\Scripts\Restart.cs" />
      <Compile Include="Assets\Scripts\StartGame.cs" />
      <Compile Include="Assets\Scripts\Validation1.cs" />
      <Compile Include="Assets\Scripts\Validation2.cs" />

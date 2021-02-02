@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using UnityEngine.Windows.WebCam;
 
 public class Validation3 : MonoBehaviour, IPointerDownHandler
 {
@@ -19,6 +20,8 @@ public class Validation3 : MonoBehaviour, IPointerDownHandler
     public GameObject timer;
     public GameObject victory;
     public GameObject help;
+    public GameObject recording;
+    public GameObject restart;
 
     // Start is called before the first frame update
     void Start()
@@ -54,6 +57,8 @@ public class Validation3 : MonoBehaviour, IPointerDownHandler
             timer.SetActive(false);
             victory.SetActive(true);
             help.SetActive(false);
+            recording.SetActive(false);
+            restart.SetActive(true);
         }
         
         else

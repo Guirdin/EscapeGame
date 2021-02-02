@@ -16,7 +16,7 @@ public class OpenImage : MonoBehaviour, IPointerDownHandler
     }
     
     public void OpenHelpImg() {
-        Application.OpenURL(System.Environment.CurrentDirectory + "/helpimg.png");
+        Application.OpenURL(System.Environment.CurrentDirectory + "/room.png");
     }
 
     public void OnPointerDown(PointerEventData eventData)
