@@ -81,17 +81,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13756}
     - Class: 114
-      Script: {instanceID: 14012}
+      Script: {instanceID: 13998}
     - Class: 114
-      Script: {instanceID: 14218}
+      Script: {instanceID: 14014}
     - Class: 114
-      Script: {instanceID: 14318}
+      Script: {instanceID: 14220}
     - Class: 114
-      Script: {instanceID: 14372}
+      Script: {instanceID: 14320}
     - Class: 114
       Script: {instanceID: 14374}
     - Class: 114
-      Script: {instanceID: 22220}
+      Script: {instanceID: 14376}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -533,6 +533,12 @@ ScriptsOnlyBuild:
     className: MarkerTrack
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Restart
+  - hash:
+      serializedVersion: 2
       Hash: 9cc44dbfecbd5f86fd62b15c198abef1
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -657,13 +663,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Restart
   platform: 5
   scenePathNames:
   - Assets/Fantasy Wooden GUI  Free/Scene/Demo.unity
-  playerPath: C:/Users/h-per/Bureau/EscapeGame_GroupeN/EscapeGame2D.exe
+  playerPath: C:/Users/h-per/Bureau/EquipeN_EscapeGame_Build/EscapeGame2D.exe
